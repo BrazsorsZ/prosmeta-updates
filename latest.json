@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "installerUrl": "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.0/ProjectCostAssistant-Setup-1.0.0.exe",
+  "sha256": "597FE9C48EA0B083D1239193CE866AFFCB4A84D83B62AC1478D493C2E4300366",
+  "size": 37253854,
+  "notes": "Первый выпуск: установщик, одноразовая активация и автоматические обновления."
+}
