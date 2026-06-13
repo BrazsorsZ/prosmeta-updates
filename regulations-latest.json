@@ -1,0 +1,20 @@
+﻿{
+    "version":  "2026.06.1",
+    "databaseUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.2/regulations-2026.06.1.db",
+    "sha256":  "FF13D1CB30CE9AE6714303B67BCBB5F948B647AA6BD0B299175A251BECA7C58F",
+    "size":  2588672,
+    "publishedAt":  "2026-06-13T08:01:32.1893361+00:00",
+    "notes":  "Проверенная нормативная база приказов 707/пр и 848/пр с коэффициентами, ценовыми таблицами и распределениями разделов.",
+    "revisions":  [
+                      {
+                          "documentId":  "order-707",
+                          "revisionDate":  "2026-03-26",
+                          "effectiveFrom":  "2026-05-17"
+                      },
+                      {
+                          "documentId":  "order-848",
+                          "revisionDate":  "2025-12-15",
+                          "effectiveFrom":  "2025-12-15"
+                      }
+                  ]
+}
