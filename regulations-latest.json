@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2026.06.2",
-    "databaseUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.4/regulations-2026.06.2.db",
-    "sha256":  "7422002B6E6AD66056656338DF795B6B1FAB44AD853AB3D69A3900BE38BAA048",
+    "version":  "2026.06.3",
+    "databaseUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.5/regulations-2026.06.3.db",
+    "sha256":  "A7D680402F90DCC126B7A12D0B29C2E8A285FD61C26F031720F4D588628652E4",
     "size":  2355200,
-    "publishedAt":  "2026-06-14T03:51:16.1947843+00:00",
+    "publishedAt":  "2026-06-14T04:26:15.6768146+00:00",
     "notes":  "",
     "revisions":  [
                       {
