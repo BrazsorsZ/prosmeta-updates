@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.5",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.5/ProjectCostAssistant-Setup-1.0.5.exe",
-    "sha256":  "E0B45F1E0506D71CDA056CC296B9A57387C219A02CB73C13B876FF679A90F4F9",
-    "size":  37295984,
-    "notes":  "Устранена блокировка интерфейса при расчёте многоквартирных домов и других объектов с несколькими конструктивными типами."
+    "version":  "1.0.6",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.6/ProjectCostAssistant-Setup-1.0.6.exe",
+    "sha256":  "7334EAD11240A04575BA46C44EA06715077BF1019ABABA3D8205F11CA284923A",
+    "size":  37297564,
+    "notes":  "Добавлены процентовки разделов и итоговые суммы в таблицу стоимости разделов, включая экспорт в Excel и PDF."
 }
