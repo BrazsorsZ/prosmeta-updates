@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.2",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.2/ProjectCostAssistant-Setup-1.0.2.exe",
-    "sha256":  "8ADB2593F54A56E28CE4A077F9DE0FBDE84E1A9DF41E9D73C4F771EEEED951C5",
-    "size":  37296693,
-    "notes":  "Обновлена нормативная база: точные официальные источники, HTTP fallback pravo.gov.ru и удобная установка нормативных пакетов."
+    "version":  "1.0.3",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.0.3/ProjectCostAssistant-Setup-1.0.3.exe",
+    "sha256":  "1137F6CB819229E981171092A5335B04080883C81B20B2D608CD77D6A8580A1F",
+    "size":  37289884,
+    "notes":  "Добавлена поддержка выбора конструктивного типа объекта при наличии нескольких натуральных нормативов."
 }
