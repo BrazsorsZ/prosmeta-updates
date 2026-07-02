@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.0",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.1.0/ProjectCostAssistant-Setup-1.1.0.exe",
-    "sha256":  "B58342675836CD71ED80840DE2E8AAF1CD90ACA412769C33F3B6BCEB8CB4EF55",
-    "size":  37773865,
-    "notes":  "Новые мастера проектирования, объектов-аналогов, обмеров и обследований; история и экспорт новых расчетов; улучшена клавиатурная доступность."
+    "version":  "1.1.1",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.1.1/ProjectCostAssistant-Setup-1.1.1.exe",
+    "sha256":  "0E73163E1172910E3E3FD5180E4370CE8A0B10B2CF7F8FACC82E92CB6656466A",
+    "size":  37791589,
+    "notes":  "Добавлен выбор региона расчёта с Приморским краем по умолчанию; автоматическая подстановка официальных индексов II квартала 2026 по методу; период, источник и регион включены в интерфейс, историю и отчёты; улучшена понятность выбора метода и пошагового расчёта обмеров и обследований."
 }
