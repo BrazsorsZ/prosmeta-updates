@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.4",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.1.4/ProjectCostAssistant-Setup-1.1.4.exe",
-    "sha256":  "3E5D029B03DD6C06B58B0AAE980624624994597F03E709FDCA10B4BCEF143640",
-    "size":  37795533,
-    "notes":  "Исправлен выбор индекса проектных работ по уровню цен норматива; убрана карточка индекса из бокового меню; улучшен шаг объекта-аналога и автоматическая загрузка курса Банка России."
+    "version":  "1.1.5",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.1.5/ProjectCostAssistant-Setup-1.1.5.exe",
+    "sha256":  "934ADFA9E3D5C5D67CB103A46020DF0402E9B273E67ECB7D1E9BC1AF447097FE",
+    "size":  37804298,
+    "notes":  "Добавлен полный расчет стоимости П/Р по разделам на шаге результата и отдельный экспорт таблиц П/Р в Excel."
 }
