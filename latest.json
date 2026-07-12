@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.5",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.1.5/ProjectCostAssistant-Setup-1.1.5.exe",
-    "sha256":  "934ADFA9E3D5C5D67CB103A46020DF0402E9B273E67ECB7D1E9BC1AF447097FE",
-    "size":  37804298,
-    "notes":  "Добавлен полный расчет стоимости П/Р по разделам на шаге результата и отдельный экспорт таблиц П/Р в Excel."
+    "version":  "1.2.0",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.2.0/ProjectCostAssistant-Setup-1.2.0.exe",
+    "sha256":  "B33B7A7629B0A74E686F17BD2441A978457FC006717F71C986EF86BB9EABB3DE",
+    "size":  37813893,
+    "notes":  "Добавлен универсальный классификатор коммерческих объектов, каскад методов по приказу 707/пр и проверяемые паспорта нормативных источников."
 }
