@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.0",
-    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.2.0/ProjectCostAssistant-Setup-1.2.0.exe",
-    "sha256":  "B33B7A7629B0A74E686F17BD2441A978457FC006717F71C986EF86BB9EABB3DE",
-    "size":  37813893,
-    "notes":  "Добавлен универсальный классификатор коммерческих объектов, каскад методов по приказу 707/пр и проверяемые паспорта нормативных источников."
+    "version":  "1.2.1",
+    "installerUrl":  "https://github.com/BrazsorsZ/prosmeta-updates/releases/download/v1.2.1/ProjectCostAssistant-Setup-1.2.1.exe",
+    "sha256":  "02A1E4F1D03244B1FC5B34C249D89CE828C96EB92140255180D5AC6F66E13A59",
+    "size":  37831135,
+    "notes":  "Любой коммерческий, социальный, промышленный или инфраструктурный объект можно ввести своими словами; исправлена применимость коэффициентов по приказу Минстроя N 180/пр."
 }
